@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T17:40:45.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P6y85fGp2jI6wgzdpnEV" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T18:07:37.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="94eX9u65eR8lTXDqW7r2" version="23.0.2" type="github">
   <diagram name="Page-1" id="gxXwNX61zRqxg7FvleXQ">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="HlsL3-xmzEj45UqrOp5d-13" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Mobile&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Schedule Appointment.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="317.5" width="165" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="HlsL3-xmzEj45UqrOp5d-15" value="Notes:&lt;br&gt;- Push notifications.&lt;br&gt;-&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="630" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
