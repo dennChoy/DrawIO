@@ -1,9 +1,61 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="QsVuHdNmkMhFAH0ccXr3">
-    <mxGraphModel>
+    <mxGraphModel dx="2253" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4taxdAvW762ZO1T9AhhS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-6" target="4taxdAvW762ZO1T9AhhS-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-6" target="4taxdAvW762ZO1T9AhhS-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-6" value="Numero aprox de invitados" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="190" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-11" target="4taxdAvW762ZO1T9AhhS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-11" value="Boda Civil:&lt;div&gt;- Lugar&lt;br&gt;- Cantidad de invitados&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-12" target="4taxdAvW762ZO1T9AhhS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-12" value="Boda Religiosa:&lt;div&gt;- Lugar&lt;br&gt;- Cantidad de invitados&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-13" target="4taxdAvW762ZO1T9AhhS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-13" value="Fecha tentativa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="95" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-15" target="4taxdAvW762ZO1T9AhhS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-15" value="Fecha tentativa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="345" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-17" target="4taxdAvW762ZO1T9AhhS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-17" value="Hablar con Padres" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="215" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4taxdAvW762ZO1T9AhhS-20" target="4taxdAvW762ZO1T9AhhS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-20" value="Definir detalles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="215" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4taxdAvW762ZO1T9AhhS-22" value="Confirmar lugar y fecha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="215" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
